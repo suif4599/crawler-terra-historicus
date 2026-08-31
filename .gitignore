@@ -130,3 +130,11 @@ dmypy.json
 
 # terra-historicus
 terra-historicus
+# venera flat library
+terra-historicus-flat
+# epub output
+epub-output/
+terra-historicus.epub
+# pixi environments
+.pixi/*
+!.pixi/config.toml
